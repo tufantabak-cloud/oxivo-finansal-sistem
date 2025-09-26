@@ -1,0 +1,38 @@
+```json
+{
+  "name": "oxivo-finansal-sistem",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Türkiye Muhasebe Hesap Planı uyumlu finansal analiz sistemi",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "latest",
+    "recharts": "latest",
+    "jspdf": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "finansal-analiz",
+    "muhasebe",
+    "türkiye",
+    "gelir-gider",
+    "oxivo"
+  ],
+  "author": "OXİVO",
+  "license": "MIT"
+}
+```
